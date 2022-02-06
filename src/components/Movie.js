@@ -1,5 +1,6 @@
 import { Link } from "react-router-dom";
 import PropTypes from "prop-types";
+import "./Movie.scss";
 function Movie({ coverImg, title, year, summary, genres, id }) {
 	return (
 		<div>
