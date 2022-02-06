@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/reactjs-ytsmoviefinder/static/css/main.7d6c0256.css",
-    "main.js": "/reactjs-ytsmoviefinder/static/js/main.9ae82155.js",
+    "main.css": "/reactjs-ytsmoviefinder/static/css/main.6e48c46c.css",
+    "main.js": "/reactjs-ytsmoviefinder/static/js/main.f73b8556.js",
     "index.html": "/reactjs-ytsmoviefinder/index.html",
-    "main.7d6c0256.css.map": "/reactjs-ytsmoviefinder/static/css/main.7d6c0256.css.map",
-    "main.9ae82155.js.map": "/reactjs-ytsmoviefinder/static/js/main.9ae82155.js.map"
+    "main.6e48c46c.css.map": "/reactjs-ytsmoviefinder/static/css/main.6e48c46c.css.map",
+    "main.f73b8556.js.map": "/reactjs-ytsmoviefinder/static/js/main.f73b8556.js.map"
   },
   "entrypoints": [
-    "static/css/main.7d6c0256.css",
-    "static/js/main.9ae82155.js"
+    "static/css/main.6e48c46c.css",
+    "static/js/main.f73b8556.js"
   ]
 }
