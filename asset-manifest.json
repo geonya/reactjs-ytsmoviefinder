@@ -1,10 +1,12 @@
 {
   "files": {
-    "main.js": "/reactjs-ytsmoviefinder/static/js/main.7d46c44f.js",
+    "main.css": "/reactjs-ytsmoviefinder/static/css/main.31d6cfe0.css",
+    "main.js": "/reactjs-ytsmoviefinder/static/js/main.6c688493.js",
     "index.html": "/reactjs-ytsmoviefinder/index.html",
-    "main.7d46c44f.js.map": "/reactjs-ytsmoviefinder/static/js/main.7d46c44f.js.map"
+    "main.6c688493.js.map": "/reactjs-ytsmoviefinder/static/js/main.6c688493.js.map"
   },
   "entrypoints": [
-    "static/js/main.7d46c44f.js"
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.6c688493.js"
   ]
 }
